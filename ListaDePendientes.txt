@@ -1,0 +1,22 @@
+
+==============================================================
+========================== VOD PLAY ==========================
+==============================================================
+
+- Armar y calcular presupuesto de la pagina. proponer fechas y objetivos a cumplir.
+- Organizar cuando vamos a programar, asi nos juntamos o metemos call.
+
+- Probar coneccion con link de dropbox, para bajar las imagenes.
+
+- Pedir el contenido de la pagina: LOGO, Eslogan, nombres de productos, precios, objetivos de la pagina, etc.
+
+- Empezar a acomodar en base a modelos de paginas del estilo:
+	
+	www.cont.ar
+	www.qubit.tv
+	www.cablevisionflow.com.ar
+	
+- Ver como mandar mail hacia el call-center desde "Formulario de Contacto". A quien se envia? Se valida la info?
+
+
+- Empezar a definir el tipo de carrito que vamos a armar
